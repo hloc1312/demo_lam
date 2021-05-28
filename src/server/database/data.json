@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "BP001",
+      "name": "Backpack 1",
+      "price": 1190,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1584468003/626160_H9HFN_1000_001_100_0000_Light-Gucci-Off-The-Grid-backpack.jpg"
+    },
+    {
+      "id": "TS001",
+      "name": "T-Shirt 1",
+      "price": 790,
+      "image": "http://media.gucci.com/style/DarkGray_Center_0_0_490x490/1605650404/548334_XJDAE_1230_001_100_0000_Light-Disney-x-Gucci-Donald-Duck-print-T-shirt.jpg"
+    },
+    {
+      "id": "TS002",
+      "name": "T-Shirt 2",
+      "price": 700,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1599567304/616036_XJCXX_1082_001_100_0000_Light-FakeNot-print-oversize-T-shirt.jpg"
+    },
+    {
+      "id": "TS003",
+      "name": "T-Shirt 3",
+      "price": 580,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1608227104/616036_XJCOQ_9095_001_100_0000_Light-Original-Gucci-print-oversize-T-shirt.jpg"
+    },
+    {
+      "id": "TP001",
+      "name": "Track pants",
+      "price": 1290,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1530552609/496920_X9V05_4245_001_100_0000_Light-GG-jacquard-track-bottoms.jpg"
+    },
+    {
+      "id": "LS001",
+      "name": "Long sleeves 1",
+      "price": 890,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1605650404/623245_XJDAJ_1230_001_100_0000_Light-Disney-x-Gucci-Donald-Duck-sweatshirt.jpg"
+    },
+    {
+      "id": "LS002",
+      "name": "Long sleeves 2",
+      "price": 1150,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_800x800/1604664910/645292_XKBPF_8011_001_100_0000_Light-Double-G-jacquard-wool-V-neck-jumper.jpg"
+    },
+    {
+      "id": "DJ002",
+      "name": "Denim jacket",
+      "price": 3350,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1604685606/649110_XDBIP_4266_001_100_0000_Light-Eco-washed-organic-denim-jacket.jpg"
+    },
+    {
+      "id": "DD001",
+      "name": "Denim dress",
+      "price": 2980,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1606815013/651391_XDBIP_4266_001_100_0000_Light-Eco-washed-organic-denim-dress.jpg"
+    },
+    {
+      "id": "NJ001",
+      "name": "Nylon jacket",
+      "price": 2600,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1605859206/649241_XLRBM_4316_001_100_0000_Light-The-North-Face-x-Gucci-nylon-jacket.jpg"
+    },
+    {
+      "id": "BB001",
+      "name": "Bucket bag",
+      "price": 2600,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1535560217/550620_96I3B_8745_001_050_0000_Light-Ophidia-mini-GG-bucket-bag.jpg"
+    },
+    {
+      "id": "BP002",
+      "name": "Backpack 2",
+      "price": 3335,
+      "image": "//media.gucci.com/style/DarkGray_Center_0_0_490x490/1605169809/645051_2O3AT_8683_001_100_0000_Light-Disney-x-Gucci-medium-backpack.jpg"
+    }
+  ]
+}
